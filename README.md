@@ -1,2 +1,2 @@
 # photmovi
-PHOTMOVI sistema d epublicidad
+PHOTMOVI sistema de publicidad
